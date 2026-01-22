@@ -1,0 +1,5 @@
+{
+  "name": "Grocery Deals AI",
+  "description": "A specialized chat interface for discovering, sorting, and clipping grocery deals and offers with built-in guardrails and mock API integration.",
+  "requestFramePermissions": []
+}
